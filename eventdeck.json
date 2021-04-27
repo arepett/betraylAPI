@@ -1,0 +1,22 @@
+[
+  {
+    "description": "This room is warm.\nFlesh-like walls pulse with a steady heartbeat. Your own heart beats with the rhythm of the house. You are drawn into the walls... and emerge somewhere else.",
+    "rules": "You must draw the next room tile and put it in the house. Put your explorer in that room.",
+    "sound": "walls"
+  },
+  {
+    "description": "The floorboards slowly creak. Dust rises. Footprints appear on the dirty floor. And then, as they reach you, they are gone.",
+    "rules": "Roll 1 die. (An explorer in the Chapel rolls 1 additional die on this roll.)\n4. You and the nearest explorer gain 1 Might.\n3. You gain 1 Might, and the nearest explorer loses 1 Sanity.\n2. Lose 1 Sanity.\n1. Lose 1 Speed.\n0. Each explorer loses 1 point from a trait of their choice.",
+    "sound": "footsteps"
+  },
+  {
+    "description": "A man on fire runs through the room. His skin bubbles and cracks, falling away from him and leaving a fiery skull that clatters to the ground, bounce, rolls, and disappears",
+    "rules": "You must attempt a Sanity roll:\n4+ You feel a little hot under the collar, but otherwise fine. Gain 1 Sanity.\n2-3 Out, out, you must get out. Put your explorer in the Entrance Hall.\n0-1 You burst into flames! Take 1 die of physical damage. Then take 1 die of mental damage as you put out the flames.",
+    "sound": "burning"
+  },
+  {
+    "description": "You feel a body under your foot. Before you can leap away from it, you're knocked over. A giggling voice runs away from you.",
+    "rules": "Turn over all your item cards (not your omen cards) and shuffle them. The player to your right randomly discards one of them. Then turn your item cards face up again.",
+    "sound": "whoops"
+  }
+]
