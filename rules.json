@@ -1,18 +1,20 @@
-[
-  {
-    "title": "Rule 1",
-    "rules": "Rule"
-  },
-  {
-    "title": "Rule 1",
-    "rules": "Rule"
-  },
-  {
-    "title": "Rule 1",
-    "rules": "Rule"
-  },
-  {
-    "title": "Rule 1",
-    "rules": "Rule"
-  }
-]
+{
+  "rulelist" = [
+    {
+      "title": "Rule 1",
+      "rules": "Rule"
+    },
+    {
+      "title": "Rule 1",
+      "rules": "Rule"
+    },
+    {
+      "title": "Rule 1",
+      "rules": "Rule"
+    },
+    {
+      "title": "Rule 1",
+      "rules": "Rule"
+    }
+  ]
+}
