@@ -1,20 +1,24 @@
 {
-  "rulelist": [
-    {
-      "title": "Rule 1",
-      "rules": "sdagfdsjhkfjhdgjsghdjkfhsjhdfkjhadfkjhsjkfskjhdfkjsghdfjdshgfjkhsgdjfkgsjkdghfkjsghdfjkgshfjkhsgkdjfhskjgfksjghdfkje"
-    },
-    {
-      "title": "Rule 1",
-      "rules": "Rule"
-    },
-    {
-      "title": "Rule 1",
-      "rules": "Rule"
-    },
-    {
-      "title": "Rule 1",
-      "rules": "Rule"
-    }
-  ]
+	"rulelist": [
+	 	{
+			"title": "Turn Order",
+			"rules": "Clockwise starting with the player whose charachter's birthdate is soonest."
+		},
+		{
+			"title": "Movement",
+			"rules": "You can move through any number of rooms equal to your chrachter's speed. Drawing any card stops your movement"
+		},
+		{
+			"title": "Room Tiles",
+			"rules": "Make sure to line up doors logically. If you can not line up each door with another door or open space, the door becomes a false feature and can not be used. If a tile would seal off a floor, draw a new one to leave a free doorway."
+		},
+		{
+			"title": "Trait Roles",
+			"rules": "To complete a role for a trait, role a number of dice equal to the value of your trait. Physical allows you to choose between might and speed. Mental allows you to choose between sanity and knowledge."
+		},
+	  	{
+		  	"title": "Haunt Role",
+		    "rules": "After drawing an omen card, role 6 dice against the number of omen cards that have been drawn. The haunt begins if you role lower then the number of omen cards."
+	  	}
+	]
 }
