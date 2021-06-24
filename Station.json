@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Shell", 
+    "address": "1234 Wayfield Dr, Washington, DC 12345", 
+    "id": "000001", 
+    "latlon": ["10000","10000"],
+    "open": "Open Now", 
+    "rating": 2
+  },
+  {
+    "name": "CostCo", 
+    "address": "1974 Maple St., Beltsville, MD 12345", 
+    "id": "000178", 
+    "latlon": ["10000","10000"],
+    "open": "Open Now", 
+    "rating": 4.5
+  },
+  {
+    "name": "US Fuel", 
+    "address": "1974 Maple St., Beltsville, MD 12345", 
+    "id": "000304", 
+    "latlon": ["10000","10000"],
+    "open": "Open Now", 
+    "rating": 4.5
+  }
+]
